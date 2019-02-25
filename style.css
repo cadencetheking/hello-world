@@ -1,0 +1,7 @@
+nav{
+    font-family: PT sans;
+    text-transform: uppercase;
+}
+nav:hover{
+    color: red;
+}

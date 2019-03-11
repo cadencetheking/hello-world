@@ -2,6 +2,22 @@ nav{
     font-family: PT sans;
     text-transform: uppercase;
 }
-nav:hover{
-    color: red;
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center; 
+}
+Team{
+    text-align: center;
+}
+.Team{
+    width: 220px;
+    height: 265px;
+}
+.col-md-3{
+    text-align: center
 }
